@@ -30,7 +30,7 @@ Welcome to the `SQS` directory! This section focuses on leveraging Amazon Simple
 
 ## Configuration
 
-Here you'll find various configuration templates for setting up SQS queues, including standard queues, FIFO queues, and more.
+Here, you'll find various configuration templates for setting up SQS queues, including standard queues, FIFO queues, and more.
 
 ## Examples
 
@@ -40,7 +40,7 @@ In this section, you'll find code examples that demonstrate how to integrate SQS
 
 1. Navigate to the `Examples` folder for code snippets.
 2. Check out the `Configuration` folder for setup templates.
-3. Refer to the use-case specific READMEs for more detailed implementations.
+3. Refer to the use-case-specific READMEs for more detailed implementations.
 
 ## Contributing
 
